@@ -1,10 +1,12 @@
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv5.jpg" group-title="",CCTV-5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv5.jpg" group-title="CCTV",CCTV-5
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv5+.jpg" group-title="",CCTV-5+
-http://223.110.245.139:80/PLTV/4/224/3221227480/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv9.jpg" group-title="",CCTV-9
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv5+.jpg" group-title="CCTV",CCTV-5+
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv9.jpg" group-title="CCTV",CCTV-9
 http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv12.jpg" group-title="",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv12.jpg" group-title="CCTV",CCTV-12
 http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/njnews.jpg" group-title="",南京新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/njnews.jpg" group-title="News",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/bbc-news.png" group-title="News",BBC News
+https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
