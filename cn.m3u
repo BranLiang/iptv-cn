@@ -10,3 +10,5 @@ http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/bbc-news.png" group-title="News",BBC News
 https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/das-erste.png" group-title="News",Das Erste
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
