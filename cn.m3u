@@ -14,17 +14,20 @@ http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv12.jpg" group-title="CCTV",CCTV-12
 http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/nj-news.jpg" group-title="News",南京新闻综合
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/bbc-news.png" group-title="News",BBC News
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/bbc-news.png" group-title="Foreign",BBC News
 https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
-#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/das-erste.png" group-title="News",Das Erste
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/das-erste.png" group-title="Foreign",Das Erste
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/tagesschau.jpg" group-title="News",Tagesschau 24
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/tagesschau.jpg" group-title="Foreign",Tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/ndr.png" group-title="News",NDR Hamburg
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/ndr.png" group-title="Foreign",NDR Hamburg
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/besttv.jpg" group-title="Sports",百事通体育
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/besttv.jpg" group-title="Sport",百事通体育
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/jsws.png" group-title="Fun",江苏卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/nj-news.jpg" group-title="Local",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/jsws.png" group-title="Local",江苏卫视
 http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
