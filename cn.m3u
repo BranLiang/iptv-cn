@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv1.jpg" group-title="CCTV",CCTV-1
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv2.jpg" group-title="CCTV",CCTV-2
+http://117.169.120.140:8080/live/cctv-2/.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv3.jpg" group-title="CCTV",CCTV-3
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv4.jpg" group-title="CCTV",CCTV-4
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv5.jpg" group-title="CCTV",CCTV-5
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/cctv5+.jpg" group-title="CCTV",CCTV-5+
@@ -16,3 +24,7 @@ https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/ndr.png" group-title="News",NDR Hamburg
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/besttv.jpg" group-title="Sports",百事通体育
+http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/BranLiang/iptv-cn/master/logos/jsws.png" group-title="Fun",江苏卫视
+http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
