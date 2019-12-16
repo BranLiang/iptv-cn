@@ -8,3 +8,7 @@
 ```
 https://raw.githubusercontent.com/BranLiang/iptv-cn/master/cn.m3u
 ```
+
+# Sources
+
+https://github.com/iptv-org/iptv
